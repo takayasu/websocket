@@ -1,3 +1,5 @@
+[![Job Status](https://inspecode.rocro.com/badges/github.com/takayasu/websocket/status?token=4K2C69cmTbrH-fN5kiYXZ1s45gu2XWYGYkv9pq5P2Qo)](https://inspecode.rocro.com/jobs/github.com/takayasu/websocket/latest?completed=true)
+
 # Gorilla WebSocket
 
 Gorilla WebSocket is a [Go](http://golang.org/) implementation of the
